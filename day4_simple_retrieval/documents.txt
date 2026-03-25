@@ -1,0 +1,7 @@
+documents = [
+    "Machine learning enables computers to learn from data without being explicitly programmed.",
+    "Cooking requires a balance of ingredients, timing, and temperature control.",
+    "Space exploration helps us understand planets, stars, and the universe.",
+    "Programming involves writing instructions for computers using languages like Python.",
+    "Sports improve physical fitness and promote teamwork and discipline."
+]

@@ -1,0 +1,38 @@
+Query: What is coding?
+Query embedding shape: (384,)
+Document 1 similarity: 0.3055
+Document 2 similarity: 0.0794
+Document 3 similarity: 0.1440
+Document 4 similarity: 0.5675
+Document 5 similarity: 0.0576
+Query: What is coding?
+Most relevant document:
+Programming involves writing instructions for computers using languages like Python.
+
+
+
+
+Query: Which thing strengthens health?
+Query embedding shape: (384,)
+Document 1 similarity: 0.0755
+Document 2 similarity: 0.1863
+Document 3 similarity: 0.1762
+Document 4 similarity: 0.0468
+Document 5 similarity: 0.3796
+Query: Which thing strengthens health?
+Most relevant document:
+Sports improve physical fitness and promote teamwork and discipline.
+
+
+
+
+Query: What does a chef need?
+Query embedding shape: (384,)
+Document 1 similarity: 0.1358
+Document 2 similarity: 0.6010
+Document 3 similarity: 0.0864
+Document 4 similarity: 0.0922
+Document 5 similarity: 0.0786
+Query: What does a chef need?
+Most relevant document:
+Cooking requires a balance of ingredients, timing, and temperature control.
